@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Uplogic Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email Id</string>
+    <string name="pass">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">Register</string>
+    <string name="add_ca">Add Card</string>
+    <string name="login">Login</string>
+    <string name="signup">You don\'t have account \n\n <u><b>SignUp</b></u></string>
+    <string name="name">Name</string>
+    <string name="balance">My Balance</string>
+    <string name="tot_balance">Total balance</string>
+    <string name="money_cash">Money Cash</string>
+    <string name="money_in_your_wallet">Money in your wallet</string>
+    <string name="demo_card_number">**** **** **** **78</string>
+    <string name="debit_card">Debit Card</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="add_wallet">Add Wallet</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="my_cards">MY CARDS</string>
+    <string name="home">HOME</string>
+    <string name="profile">PROFILE</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="cvv">CVV</string>
+    <string name="expiry_date">Expire Date</string>
+    <string name="add_card">Add Card</string>
+    <string name="scan_card">Scan Card</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="method">Method</string>
+    <string name="Desc">Description</string>
+    <string name="amt">Amount</string>
+    <string name="demo_amt">00.00</string>
+    <string name="enter_description">enter description</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="income">Income</string>
+    <string name="home_page">Home Page</string>
+    <string name="logout">logout</string>
+    <string name="req_email">please enter valid email id</string>
+    <string name="req_name">please enter name</string>
+    <string name="req_pass">please enter correct password</string>
+    <string name="req_desc">please enter description</string>
+    <string name="invalid_card">Invalid card number</string>
+    <string name="expire_date">Invalid Expire Date</string>
+    <string name="req_amount">please enter amount</string>
+
+    <string-array name="spinner_value">
+        <item>Money Cash</item>
+        <item>Debit Card</item>
+        <item>Bank Account</item>
+        <item>Credit Card</item>
+    </string-array>
+
+
+</resources>

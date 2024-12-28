@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695399459252",
+    "firebase_url": "https://walletstore-7c6cf-default-rtdb.firebaseio.com",
+    "project_id": "walletstore-7c6cf",
+    "storage_bucket": "walletstore-7c6cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695399459252:android:e1e8d73690621f090caae1",
+        "android_client_info": {
+          "package_name": "com.vk.uplogictask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695399459252-bofkro765im98pu98bb5d14ce05fqjkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vk.uplogictask",
+            "certificate_hash": "68a0e009d98d536377d580ed6c2486a390b81b0c"
+          }
+        },
+        {
+          "client_id": "695399459252-5ok2r2t7k8n6hkjko9fdq2seuq0jaspo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jrLqrLm0ock-hBn1_NTwlh4PRZj4fvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695399459252-5ok2r2t7k8n6hkjko9fdq2seuq0jaspo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

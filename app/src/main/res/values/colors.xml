@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#a2d9ff</color>
+    <color name="first_color">#007AFF</color>
+    <color name="second_color">#CD60FB</color>
+    <color name="grey_color">#8D9090</color>
+    <color name="view_color">#CCCED1</color>
+    <color name="un_select">#CCCCCC</color>
+    <color name="ripple_color">#E0E0E0</color>
+    <color name="success_color">#4CAF50</color>
+
+</resources>
